@@ -87,6 +87,7 @@ Highly rated movies are not always the highest revenue-generating movies.
 ---
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
+<img width="1224" height="686" alt="image" src="https://github.com/user-attachments/assets/5299b710-5983-45d3-bf30-115989306954" />
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>

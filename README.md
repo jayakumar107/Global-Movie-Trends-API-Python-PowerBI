@@ -70,6 +70,9 @@ Global-Movie-Trends-Dashboard/
 ├── Image/
 │   └── dashboard_photo_global_movie_trends.png
 │
+├── Report/
+│   └── report_global_movie_trends.pdf
+|
 ├── README.md
 ```
 ---
